@@ -1,0 +1,74 @@
+[
+    {
+        "description": """
+        You find yourself in a room containing two portals
+        leading to other worlds that are constantly transforming.
+        You don't know how you got here, but you know you've
+        never stepped through a portal before, so you just HAVE
+        to find out what it's like!
+        Which portal will you step through?
+        """,
+        "options": [
+            ('red', -1),
+            ('blue', 0)
+        ],
+    },
+    {
+        "description": """
+        The walls shift and unfold around you as a figure appears
+        from another portal across the room. It welcomes you to the
+        Mirror Dimension and warns you that things get a little
+        "strange" around here.
+        What will you do?
+        """,
+        "options": [
+            ('Make a mad dash for the portal across the room.', 0),
+            ('Try to snatch the fancy-looking ring from the person.', -1),
+            ('You\'ve reached a new bombshell.', 1)
+        ]
+    },
+    {
+        "description": """
+        You are bouncing up and down uncontrollably and, upon looking
+        around, notice that you are on a trampoline, surrounded by
+        lunatic children.
+        """,
+        "options": [
+            ('Do a backflip flying kick to impress them all with your ninja skills.', 0),
+            ('Kindly ask them to stop bouncing.', 1)
+        ]
+    },
+    {
+        "description": """
+        You have entered the Oasis, time to find the Easter egg!
+        """,
+        "options": [
+            ('', 0),
+            ('', 1)
+        ]
+    },
+    {
+        "description": """
+        You suddenly get surrounded by a swarm of mirrors, each
+        of them showing memories of your past...except one. That
+        one mirror is shining a bright white light while you hear
+        a voice whispering to you "Save me..."
+        """,
+        "options": [
+            ('', 0),
+            ('', 1)
+        ]
+    },
+        "description": """
+        The evil mumble rapper starts drinking some purple liquid
+        which gives him the power to drive everyone mad with his
+        mumble rap, and starts to want revenge after being
+        critically panned.
+        """,
+        "options": [
+            ('', 0),
+            ('', 1)
+        ]
+    }
+    # TODO: Create more levels
+]

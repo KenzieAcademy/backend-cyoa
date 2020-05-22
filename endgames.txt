@@ -1,0 +1,35 @@
+[
+    """
+    You have divided by zero! The world is ending!
+    """,
+    """
+    The evil mumble rapper takes over the world and drives
+    people insane with his terrible rapping skills. You are
+    now deaf.
+    """,
+    """
+    The cake was a lie. Go find some real cake.
+    """,
+    """
+    The ring glows, and suddenly you find yourself back at
+    the beginning.
+    """,
+    """
+    You tried to steal the wizard's ring and he blasted you
+    with a fireball.
+    """,
+    """
+    The last portal has dissipated. You have nowhere to go.
+    """,
+    """
+    The evil weiner dog robots eat you alive on the other
+    side of the matrix.
+    """,
+    """
+    A loud snap is heard. Moments later, you don't feel so
+    good as dust begins falling all around.
+    """,
+    """
+    You are swallowed whole by a Demogorgon.
+    """
+]
